@@ -13,6 +13,7 @@ Also seeking a project to continue my growth as a programmer and software develo
 - Keeping everyone up to date with changes and the latest details
 - Keeping track of my symptoms, weight (daily log)
 - Keeping track of all the different doctors and locations (sync with calendar and google maps?)
+- Notifications of appointments, medications, etc
 - Sharing things my partner and I need or that people can do for us
 - Track treatments over time
 - Upload recordings of doctors meetings, call log (who, when, what was discussed)
