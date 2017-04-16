@@ -1,6 +1,6 @@
 # TreatmentJournal
 
-![logo](logo_trimmed.png)
+![logo](/dev/logo_trimmed.png)
 
 (TreatmentJournal.net - not live)
 
@@ -51,3 +51,19 @@ Also seeking a project to continue my growth as a programmer and software develo
 - Possible shortcut to react on rails? https://github.com/shakacode/react_on_rails
 - Authentication, Devise:  https://rubygems.org/gems/devise/versions/4.2.0
 - Authorization for roles (doesn't do authentication), Pundit - https://github.com/elabs/pundit
+
+----
+
+## Styles/Colors/Fonts
+
+- logo font: Raleway
+- Red: #9b1111
+- Black: #000000
+- White: #ffffff
+- Dark Green: #3B3D1F
+- Mid Green:#727E47
+- Light Green: #B3BE8C
+- Maroon: #2D180E
+- Brown:#B29565
+
+![collage](/dev/collage.png)
