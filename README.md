@@ -34,10 +34,11 @@ Also seeking a project to continue my growth as a programmer and software develo
   - subscribe to update options (to get emails when things are added)
   - how you can help
 - Private pages have several tabs:
-  - Share update
+  - Post update
   - Daily Log (symptom, meds, treatment, journal)
   - Listings of providers (docs, locations)
   - Agenda (List of appointments that connects with gcal, plus recaps for each appointment that can be in text, or you can upload audio files of the meeting, notifications for meds or appointments)
+  - search that goes through logs, agenda items/recaps, providers, and updates
 
 ----
 ## Notes
@@ -51,6 +52,12 @@ Also seeking a project to continue my growth as a programmer and software develo
 - Possible shortcut to react on rails? https://github.com/shakacode/react_on_rails
 - Authentication, Devise:  https://rubygems.org/gems/devise/versions/4.2.0
 - Authorization for roles (doesn't do authentication), Pundit - https://github.com/elabs/pundit
+- Google Calendar API: https://developers.google.com/google-apps/calendar/
+- Google sign-in: https://developers.google.com/identity/#google-sign-in
+- Mailchimp API for messages? https://developer.mailchimp.com/
+- Rich text edit (if I use react) - https://draftjs.org/
+- Rich text edit (if only rails) - https://github.com/basecamp/trix and https://github.com/maclover7/trix
+- Rich text edit if I want TinyMCE (https://medium.com/@NishL/how-to-add-a-wysiwyg-editor-to-your-rails-app-be56d8e8add6)
 
 ----
 
